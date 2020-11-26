@@ -4,9 +4,9 @@ return [
     'page_title' => [
         'dashboard' => 'Kontrol Paneli',
         'detail' => '%entity_label_singular% <small>(#%entity_short_id%)</small>',
-        'edit' => '%entity_label_singular% <small>(#%entity_short_id%)</small> Düzenle',
+        'edit' => '%entity_label_singular% Düzenle <small>(#%entity_short_id%)</small> ',
         'index' => '%entity_label_plural%',
-        'new' => 'Oluştur : %entity_label_singular%',
+        'new' => '%entity_label_singular% Oluştur',
         'exception' => 'Hata|Hatalar',
     ],
 
